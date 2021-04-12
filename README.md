@@ -1,4 +1,4 @@
-# chipy_project
+# NFL PREDICTION MACHINE
 Repo for all project work on the Chipy, Fall 2018 mentorship program
 This is my first attempt at a self directed data science project with Python.
 
